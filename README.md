@@ -30,8 +30,6 @@
 <a href="https://stackoverflow.com/users/3258426" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3258426" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ambalansajeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ambalansajeer" height="30" width="40" /></a>
 <a href="https://kaggle.com/ambalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ambalan" height="30" width="40" /></a>
-<a href="https://fb.com/ambalansajeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ambalansajeer" height="30" width="40" /></a>
-<a href="https://instagram.com/ambalansajeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambalansajeer" height="30" width="40" /></a>
 <a href="https://medium.com/@ambalansajeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ambalansajeer" height="30" width="40" /></a>
 </p>
 
