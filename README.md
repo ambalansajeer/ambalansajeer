@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo10426
-Fork on GitHub2608
 <h1 align="center">Hi 👋, I'm Sajeer</h1>
 <h3 align="center">I'm a Full-Stack Developer working in Dubai, UAE.</h3>
 
