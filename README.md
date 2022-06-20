@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **reactnative, Flutter,Python, Php, Laravel,**
 
-- 📫 How to reach me **ambalansajeer@gmail.com**
+- 📫 How to reach me <a href="mailto:ambalansajeer@gmail.com">Click here</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
