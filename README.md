@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ambalansajeer" target="blank"><img src="https://img.shields.io/twitter/follow/ambalansajeer?logo=twitter&style=for-the-badge" alt="ambalansajeer" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="15" height="15">Python,<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="25" height="15">PHP,<img src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d9/20160324173914%21Node.js_logo.svg" width="15" height="15">NodeJs,<img src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" width="15" height="15">ReactNative**
 
 - 🌱 I’m currently learning **Asterisk, Dialplan, ARI, AGI**
-
-- 👯 I’m looking to collaborate on **Node.js**
 
 - 🤝 I’m looking for help with **Asterik ARI**
 
